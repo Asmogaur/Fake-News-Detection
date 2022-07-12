@@ -1,2 +1,2 @@
 # Fake-News-Detection
-Built a machine learning model using Naïve Bayes classifier and Keras Neural Network (KNN) to classify the news articles as fake or real on given datasets.
+Built a machine learning model using Naïve Bayes classifier and Bi-directional LSTM-Recurrent Neural Network to classify the news articles as fake or real.
